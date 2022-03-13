@@ -1,1 +1,1 @@
-# GOG
+# GOG for CPP
